@@ -6,9 +6,22 @@ yrc, or Gyrc, is an app I've been looking for, for years, to control my Yamaha n
 
 I found pymusiccast on Github, it is a library for doing so in Python.   So I had to write my own GUI for it, and it is now working (for me anyway).  The only configuration is to enter the ip address or hostname of your receiver, which if you use Linux, you can probably locate.   If you decide to try the app, please do so using the button at the top-right that says IP.  After you've entered something, like say 192.168.1.130 (mine, not yours probably), it will be written to a simple text file at ~/.gyrc.cfg.  Thereafter, the app will try to get the receiver's IP address from that file.  If you need to change it, just delete the file and next time you start Gyrc (Yamaha Receiver Control) it will once again show the IP button.
 
+You'll also need to copy the icons from the images directory to ~/.gyrc/icons/  It won't start without them, currently.  In the meantime, look at the screenshots.
+
+There are some depencencies, purely Python, besides pymusiccast.  You'll need the GTK+ (3) libraries which come with GNOME, plus:
+1. python3.x
+2. requests
+3. pymusiccast
+
+(of course)
+
+Install python, then get pip3 and use it do install pymusiccast, etc. This is sort of DIY right now.
+
 For now, once you've done that, edit the source code in wherever you git cloned the app in libgyrc/gyrc.py.  You'll see it at the top of the first (Yamawin) class.   If you can figure that out, you're ready to go, the rest should be obvious, but please be patient as it is under development (not fully functional and probably has bugs). Definitely has bugs, I'm sure.   It works great for me, though.
 
 Also, please feel free to browse my code.
+
+If anyone knows if you can run this under another OS, or what I need to do, please let me know.
 
 Thank you,
 
