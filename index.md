@@ -1,4 +1,11 @@
+### Gyrc = Gnome Yamaha Receiver Control
+
+##### Development Journal and Installation Help
+
+
 For now (and probably forever) I'll just use plain text, Thank you.
+
+[Development branch of Gyrc](https://github.com/balinbob/yrc/tree/development)
 
 2020-07-15 update
 
@@ -8,7 +15,7 @@ The big news for me is that, last night, I got it to run successfully on Windows
 
 But here is a screenshot of it:
 
-[stub]
+
 
 
 2020-07-07
