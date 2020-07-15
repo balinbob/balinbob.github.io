@@ -16,6 +16,7 @@ The big news for me is that, last night, I got it to run successfully on Windows
 But here is a screenshot of it:
 
 
+![picture](images/gyrc-on-windows10.png)
 
 
 2020-07-07
