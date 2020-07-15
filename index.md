@@ -1,5 +1,16 @@
 For now (and probably forever) I'll just use plain text, Thank you.
 
+2020-07-15 update
+
+This is becoming more of a cross between a blog/journal of the development of Gyrc, and the instructions to install it, so here we go.  Maybe someday it'll be formatted, but for now it continues to be mostly plain text.
+
+The big news for me is that, last night, I got it to run successfully on Windows 10.  Since it uses GTK+, it must run under the Windows Subsystem for Linux 2.  That has to be present and working on the Windows installation.   I'm using the Debian distribution from the software store on Windows.  Setting that up is not difficult, but it is beyond the scope of this project.   Also, the average user of Windows probably will not want to go to the lengths I did to get it running.
+
+But here is a screenshot of it:
+
+[stub]
+
+
 2020-07-07
 
 yrc, or Gyrc, is an app I've been looking for, for years, to control my Yamaha network receiver from my computer (in addition to the great apps for iPhone).
