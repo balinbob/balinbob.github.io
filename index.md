@@ -1,12 +1,9 @@
-### Gyrc = Gnome Receiver Control
+### Gyrc = Gnome AV Receiver Control
 
 ##### Development Journal and Installation Help
 
 A quick introduction:  This is the site for an open-source project on GitHub.  The project is a graphical application for controlling
-the network-connected AV receivers made by the Yamaha®(c) Corporation.   I am currently researching the implications of using the company's
-name in this project, and on this journal.  I just realized I am doing this, so please allow me today to do so.
-
-I was assuming the company would not object to me developing this app, since their API is public.  I need to find out now.
+the network-connected AV receivers made by the Yamaha®(c) Corporation.
 
 I am not in any way associated with Yamaha, other than owning two of their excellent receivers and two wireless satellite speakers.
 
@@ -15,11 +12,11 @@ I am not in any way associated with Yamaha, other than owning two of their excel
 Robert Allred
 2020-07-15
 
-##### =====================================================================================================
+##### -----------------------------------------------------------------------------------------------------
 
 For now (and probably forever) I'll just use plain text, Thank you.
 
-[Development branch of Gyrc](https://github.com/balinbob/yrc/tree/development)
+[Gyrc on GitHub](https://github.com/balinbob/yrc)
 
 2020-07-15 update
 
