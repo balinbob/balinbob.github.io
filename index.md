@@ -18,6 +18,18 @@ For now (and probably forever) I'll just use plain text, Thank you.
 
 [Gyrc on GitHub](https://github.com/balinbob/yrc)
 
+2020-07-27
+
+Updating this site.  I just added some screenshots on Linux to the [images folder](images).  Here are two:
+
+![picture](images/gyrc-devices-expanded.png)
+
+![picture](images/gyrc-pinkfloyd.png)
+
+![picture](images/gyrc-on-debian-cinnamon.png)
+
+...showing how I cannot count.  Many improvements, and finally, control of multiple devices, although there is much to be done.  Mostly needed is a package for installation so it is not DIY.  Some bug fixes need to be done, and the buttons need to work better.   I really need to learn to create a Debian package.
+
 2020-07-15 update
 
 This is becoming more of a cross between a blog/journal of the development of Gyrc, and the instructions to install it, so here we go.  Maybe someday it'll be formatted, but for now it continues to be mostly plain text.
