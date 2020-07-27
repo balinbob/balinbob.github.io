@@ -1,4 +1,4 @@
-### Gyrc = Gnome AV Receiver Control
+### Gyrc = Gnome AV Receiver Control (MusicCast® devices)
 
 ##### Development Journal and Installation Help
 
