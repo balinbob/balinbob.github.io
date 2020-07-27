@@ -30,6 +30,8 @@ Updating this site.  I just added some screenshots on Linux to the images folder
 
 ...showing how I cannot count.  Many improvements, and finally, control of multiple devices, although there is much to be done.  Mostly needed is a package for installation so it is not DIY.  Some bug fixes need to be done, and the buttons need to work better.   I really need to learn to create a Debian package.
 
+[more images](screenshots.md)
+
 2020-07-15 update
 
 This is becoming more of a cross between a blog/journal of the development of Gyrc, and the instructions to install it, so here we go.  Maybe someday it'll be formatted, but for now it continues to be mostly plain text.
