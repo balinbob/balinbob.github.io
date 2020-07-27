@@ -20,7 +20,7 @@ For now (and probably forever) I'll just use plain text, Thank you.
 
 2020-07-27
 
-Updating this site.  I just added some screenshots on Linux to the [images folder](images).  Here are two:
+Updating this site.  I just added some screenshots on Linux to the images folder.  Here are two:
 
 ![picture](images/gyrc-devices-expanded.png)
 
