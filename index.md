@@ -1,3 +1,9 @@
+News:  Updates to Showtags underway, including bug fixes and newfeatures.  Hopefully culminating in v2.  Check out the v2 branch!
+
+Updates & upgrades to the app for tagging and renaming .flac audio files from live concerts and similar recordings.
+
+[Link to Showtags code](https://github.com/balinbob/showtags/tree/v2)
+
 ### Gyrc = Gtk+3 AV Receiver Control (MusicCast® devices)
 
 ##### Development Journal and Installation Help
